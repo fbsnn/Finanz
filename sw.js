@@ -1,6 +1,6 @@
 // ===== Service Worker: macht die App offline nutzbar =====
 // Bei jedem Update die Versionsnummer hochzählen (v1 -> v2 ...)
-const CACHE = 'finanzapp-v1';
+const CACHE = 'finanzapp-v3';
 
 const DATEIEN = [
     './',
